@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming soon!]
 
-- 💬 Ask me about **science!**
+- 💬 Ask me about **human brain networks!**
 
 - 📫 How to reach me **jessmaier64(at)gmail.com**
 
