@@ -2,8 +2,7 @@
 # READ ME
 
 # Description of Apex Functional Connectivity project - JW 2023
-## For proper viewing, open this file in Okular in linux or pdf viewer
-### This document goes through the folder set-up, the Kong Individual Parcellation code, then how JW ran FC preprocessing & analyses 
+### This document goes through folder set-up, Kong Individual Parcellation code, and FC preprocessing & analyses 
 
  
 #### Folder explanation: /storage/ApexConn/: 
