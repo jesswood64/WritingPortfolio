@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **technical and medical writing**
 
-- 👨‍💻 All of my projects are available at [Coming soon!]
+- 👨‍💻 All of my projects are available at https://github.com/jesswood64/WritingPortfolio
 
 - 💬 Ask me about **human brain networks!**
 
